@@ -1,4 +1,4 @@
-# Combining-image-styles-app-project-
+# Neural-image-style-transfer-app
 This app or project code is in branch2 named master
 
 frontend is done in react native 
